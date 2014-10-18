@@ -10,14 +10,11 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 oldest = 1
 newest = 2
 evensSum = 2
-numbers = [1,2]
 while( newest + oldest < 4000000 ):
 	total = newest + oldest
-	numbers.append( total )
 	oldest = newest
 	newest = total
 	if( newest % 2 == 0 ):
 		evensSum += newest
 
-print numbers
 print evensSum
