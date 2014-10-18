@@ -4,19 +4,10 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Find the sum of all the multiples of 3 or 5 below 1000.
 '''
-answer = []
+total = 0
 for x in range(1, 1000):
 	modulo = x % 3
-	if modulo == 0:
-		answer.append( x )
-		continue
-	modulo = x % 5
-	if modulo == 0:
-		answer.append( x )
-		continue
-
-total = 0
-for x in answer:
-	total += x
+	if ( x % 3 ) == 0 or ( x % 5 ) == 0:
+		total += x
 
 print total
