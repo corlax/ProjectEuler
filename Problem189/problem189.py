@@ -1,1 +1,3 @@
-''' PLACEHOLDER FILE FOR PROBLEM 189 '''
+'''
+Consider the following configuration of 64 triangles:
+'''

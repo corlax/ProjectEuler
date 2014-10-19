@@ -1,1 +1,3 @@
-''' PLACEHOLDER FILE FOR PROBLEM 251 '''
+'''
+A triplet of positive integers (a,b,c) is called a Cardano Triplet if it satisfies the condition:
+'''

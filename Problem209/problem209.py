@@ -1,1 +1,45 @@
-''' PLACEHOLDER FILE FOR PROBLEM 209 '''
+'''
+A k-input binary truth table is a map from k input bits
+
+(binary digits, 0 [false] or 1 [true]) to 1 output bit. For example, the 2-input binary truth tables for the logical AND and XOR functions are:
+
+
+
+
+
+
+
+x
+
+y
+
+x AND y
+
+000
+
+010
+
+100
+
+111
+
+
+
+
+
+
+
+x
+
+y
+
+x XOR y
+
+000
+
+011
+
+101
+
+110
+'''

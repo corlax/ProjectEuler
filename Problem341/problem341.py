@@ -1,1 +1,23 @@
-''' PLACEHOLDER FILE FOR PROBLEM 341 '''
+'''
+The Golomb's self-describing sequence {G(n)} is the only nondecreasing sequence of natural numbers such that n appears exactly G(n) times in the sequence. The values of G(n) for the first few n are
+
+
+
+
+
+
+
+n123456789101112131415&hellip;
+
+G(n)122334445556666&hellip;
+
+
+
+You are given that G(103) = 86, G(106) = 6137.
+
+You are also given that &Sigma;G(n3) = 153506976 for 1 &le; n &lt; 103.
+
+
+
+Find &Sigma;G(n3) for 1 &le; n &lt; 106.
+'''

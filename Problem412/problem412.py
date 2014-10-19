@@ -1,1 +1,3 @@
-''' PLACEHOLDER FILE FOR PROBLEM 412 '''
+'''
+For integers m, n (0&nbsp;&le;&nbsp;n&nbsp;
+'''
